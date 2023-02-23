@@ -12,7 +12,7 @@ One of the biggest challenges for the company is to be able to determine, in adv
 
 The aim of this project is to determine what type of external information is relevant when making a sales forecast in units, and to propose an algorithm that uses this information to estimate the sales of each item by market and / or location.
 
-The project utilizes three different datasets provided by INDITEX, which were imported into the notebook using appropriate libraries. There are two main documents included. The premodeling one, including all the required treatments for the data. And the modeling one, including different models. The premodeling file is zipped as its size is bigger than accepted by Github.
+The project utilizes three different datasets provided by INDITEX, which were imported into the notebook using appropriate libraries. There are two main documents included. The premodeling one, including all the required treatments for the data. And the modeling one, including different models. Both of them are zipped as its size is bigger than accepted by Github.
 
 The first step of the project is Exploratory Data Analysis (EDA), where the team analyzed the basic information of the data, including possible errors and everything that should be included in the EDA step. Then we identified and handled any missing values in the dataset, either by deleting or filling them as needed. We also managed any outliers present in the data.
 
