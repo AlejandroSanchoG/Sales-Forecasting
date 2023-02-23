@@ -1,4 +1,4 @@
-# Sales Forecasting
+# Inditex - Sales Forecasting
 
 ## Project created on the IE Business School in the Master in Business Analytics & Big Data from the April 2022 intake
 
